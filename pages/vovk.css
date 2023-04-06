@@ -79,6 +79,9 @@
     font-family:'Times New Roman', Times, serif;
     font-weight: normal; /* Нормальное начертание текста  */
   }
+  h2 {
+    text-align: left;
+  }
   p {
     text-align: justify; /* Выравнивание по ширине */
     margin-left: 60px; /* Отступ слева в пикселах */
