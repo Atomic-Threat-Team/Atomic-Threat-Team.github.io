@@ -8,7 +8,7 @@
   .navbar a {
     float: left;
     font-size: 16px;
-    color: rgb(255, 238, 0);
+    color: aqua;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -56,18 +56,13 @@
   
   /* Add a grey background color on hover */
   .subnav-content a:hover {
-    background-color: #eee;
-    color: black;
+    background-color: limegreen;
+    color: aqua;
   }
   
   /* When you move the mouse over the subnav container, open the subnav content */
   .subnav:hover .subnav-content {
     display: block;
-  }
-
-
-  p {
-    color: #eee;
   }
 
 
