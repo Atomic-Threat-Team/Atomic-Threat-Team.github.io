@@ -8,7 +8,7 @@
   .navbar a {
     float: left;
     font-size: 16px;
-    color: white;
+    color: rgb(255, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -25,7 +25,7 @@
     font-size: 16px;
     border: none;
     outline: none;
-    color: white;
+    color: limegreen;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -34,7 +34,7 @@
   
   /* Add a red background color to navigation links on hover */
   .navbar a:hover, .subnav:hover .subnavbtn {
-    background-color: red;
+    background-color: green;
   }
   
   /* Style the subnav content - positioned absolute */
@@ -42,7 +42,7 @@
     display: none;
     position: absolute;
     left: 0;
-    background-color: red;
+    background-color: green;
     width: 100%;
     z-index: 1;
   }
@@ -50,7 +50,7 @@
   /* Style the subnav links */
   .subnav-content a {
     float: left;
-    color: white;
+    color: limegreen;
     text-decoration: none;
   }
   
